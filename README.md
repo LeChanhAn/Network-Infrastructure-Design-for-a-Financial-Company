@@ -1,10 +1,8 @@
 # Network Infrastructure Design for FastPay Financial Company
-<img width="1065" height="431" alt="image" src="https://github.com/user-attachments/assets/28cdfeb0-b2c0-46d4-9ed8-e5097c894a87" />
-
 **FastPay Financial Company** is a fintech enterprise headquartered in **District 1, Ho Chi Minh City**, with two strategic branches in **Hanoi** and **Da Nang**. The company specializes in providing online payment services, which mandates an infrastructure that ensures high security, low latency, and flexible scalability to handle transaction loads.
 
 This project focuses on designing a comprehensive **Secure Hybrid Cloud Network** that integrates the on-premise headquarters and branches with AWS cloud resources.
-
+<img width="1065" height="431" alt="image" src="https://github.com/user-attachments/assets/28cdfeb0-b2c0-46d4-9ed8-e5097c894a87" />
 ## 🎯 Business Requirements & Scope
 
 ### 1. Headquarters (Ho Chi Minh City)
